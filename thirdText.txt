@@ -1,0 +1,3 @@
+Hey this is the second textfile I write
+With the cat > textname.txt command
+It is really nice
